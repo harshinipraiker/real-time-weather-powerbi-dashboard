@@ -57,7 +57,7 @@ Provides a short-term weather outlook with:
 - Weather icons
 - Rain probability
 - Temperature trends
-Avg Temp =AVERAGE(Forecast[Temp])
+- Avg Temp =AVERAGE(Forecast[Temp])
 
 ---
 
@@ -68,7 +68,7 @@ Displays:
 - Sunrise time
 - Sunset time
 - Daylight information
-  SunriseFormatted = FORMAT([Sunrise], "hh:mm AM/PM")
+- SunriseFormatted = FORMAT([Sunrise], "hh:mm AM/PM")
 ---
 
 ### 🌬️ Atmospheric Indicators
