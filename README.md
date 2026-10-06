@@ -190,7 +190,7 @@ IF(
 )
 ```
 
-###🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 - Microsoft Power BI
 - Power Query
 - DAX
@@ -200,7 +200,7 @@ IF(
 - Custom Power BI Visuals
 
 
-###📈 Dashboard Components
+### 📈 Dashboard Components
 The dashboard contains:
 - Current Weather Card
 - 7-Day Forecast
