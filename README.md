@@ -68,8 +68,7 @@ Displays:
 - Sunrise time
 - Sunset time
 - Daylight information
-
-SunriseFormatted = FORMAT([Sunrise], "hh:mm AM/PM")
+  SunriseFormatted = FORMAT([Sunrise], "hh:mm AM/PM")
 ---
 
 ### 🌬️ Atmospheric Indicators
