@@ -10,7 +10,7 @@ The dashboard combines weather API data with Power Query transformations, data m
 
 ## 📊 Dashboard Preview
 
-![Weather Dashboard](Screenshots/dashboard.png)
+![Weather Dashboard](dashboard.png)
 
 ---
 
