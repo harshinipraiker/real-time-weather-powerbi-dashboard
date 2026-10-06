@@ -189,7 +189,7 @@ IF(
     )
 )
 ```
-
+---
 ### 🛠️ Technologies & Tools
 - Microsoft Power BI
 - Power Query
@@ -199,6 +199,7 @@ IF(
 - Data Visualization
 - Custom Power BI Visuals
 
+---
 
 ### 📈 Dashboard Components
 The dashboard contains:
@@ -213,3 +214,5 @@ The dashboard contains:
 - Hover Tooltips
 - Drill-through functionality
 - Dynamic Forecast Updates
+
+---
